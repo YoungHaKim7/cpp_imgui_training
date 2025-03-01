@@ -19,7 +19,7 @@
 #endif
 
 #ifdef __EMSCRIPTEN__
-#include "../libs/emscripten/emscripten_mainloop_stub.h"
+#include "imgui/../libs/emscripten/emscripten_mainloop_stub.h"
 #endif
 
 // Main code
